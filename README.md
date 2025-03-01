@@ -24,7 +24,7 @@ Triển khai mô hình truyền dữ liệu sức khỏe thông qua hệ thống
 ### 5. Cảm biến đo nhịp tim và nồng độ oxi trong máu MAX30102
   - Là một module đo nhịp tim và nồng độ oxy trong máu (SpO2) phổ biến, được sử dụng rộng rãi trong các ứng dụng y tế và thiết bị đeo thông minh. 
   - Cảm biến này được thiết kế để cung cấp dữ liệu chính xác về nhịp tim và SpO2 thông qua phương pháp quang học.
-# Công cụ triển khai
+# Mô hình triển khai
 
 
      
