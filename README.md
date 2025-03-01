@@ -25,7 +25,7 @@ Triển khai mô hình truyền dữ liệu sức khỏe thông qua hệ thống
   - Là một module đo nhịp tim và nồng độ oxy trong máu (SpO2) phổ biến, được sử dụng rộng rãi trong các ứng dụng y tế và thiết bị đeo thông minh. 
   - Cảm biến này được thiết kế để cung cấp dữ liệu chính xác về nhịp tim và SpO2 thông qua phương pháp quang học.
 # Mô hình triển khai
-![WENS_Topology](https://drive.google.com/file/d/1ODo5YIaZ1SP5KnrujwHjDHxdqVnJR11T/view?usp=sharing)
+![wens topology](https://drive.google.com/file/d/1ODo5YIaZ1SP5KnrujwHjDHxdqVnJR11T/view?usp=sharing)
 
      
 
